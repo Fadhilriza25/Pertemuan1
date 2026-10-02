@@ -6,5 +6,6 @@
 <body>
 	<h1>Heading 1</h1>
 	<p>Ini paragraph di main</p>
+	<p>Ini paragraph baru</p>
 </body>
 </html>ss
